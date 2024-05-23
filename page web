@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+<html lang=”fr”> 
+chead» 
+<meta charset=”UTF-8”> 
+<meta name=”viewport" 
+content=*width=device-width, initial-scale=1.0°> 
+<title>Page sur Nelson Mandela</ title> 
+<style> 
+body { 
+font-family: Arial, sans- 
+serif; 
+margin: 0; padding: 0; line-height: 1.6; 
+header { 
+background: #333; color: #fff; 
+padding: 10px 0; text-align: center; 
+•container { width: 80%; margin: auto; overflow: hidden; 
+｝ 
+h1, h2 { 
+color: 
+#333; 
+｝ 
+p { 
+margin: 20px 0; 
+｝ 
+img 1 
+max-width: 100%; height: auto; 
+｝ 
+a 
+{ 
+color: 
+#0066cc; 
+｝ 
+•highlight { 
+background-color: yellow; font-weight: bold; 
+ul 
+01 
+  list-style-type: none; 
+padding: 0; 
+padding-left: 20px; 
+</style> 
+</head> 
+<body> 
+<header> 
+<div class="container"> 
+<h1>Biographie de Nelson 
+Mandela</h1> 
+</div> 
+</header> 
+<div class="container*> 
+<h2 id="section]*>Jeunesse et 
+Éducation</h2> 
+<p>Nelson Mandela est né 10 18 
+juillet 1918 dans le village de Mvezo en Afrique du Sud.</p> 
+class="highlight">Il a été 
+le premier de sa famille à fréquenter une école, où son institutrice lui donna le prénom de Nelson.</p> 
+<h2 id="section2">Carrière 
+Politique</h2> 
+<p>Mandela a rejoint le Congrès 
+National Africain (ANC) en 1943 et a joué un rôle clé dans la lutte contre l'apartheid.</p> 
+<img src="https://example.com/ 
+mandela1.jpg" alt="Nelson Mandela"> 
+<img src=*https://example.com/ 
+mandela2.jpg" alt="Nelson Mandela avec d'autres leaders"> 
+<h2 id="section3">Prison et 
+Libération</h2> 
+<p>En 1962, Mandela a été arrêté et condamné à la prison à vie pour ses activités contre l'apartheid. 
+Il a été libéré en 1990 après 27 ans de détention. </p> 
+<h2 id="section4*>Présidence et 
+Héritage</h2> 
+‹p›En 1994, Nelson Mandela est 
+devenu le premier président noir de l'Afrique du Sud et a servi jusqu'en 
+1999. Son mandat a été marqué par des efforts pour réconcilier la nation divisée.</p: 
+<ol> 
+<li>Jeunesse et Éducation</ 
+li> 
+‹li›Carrière Politique‹/li> ‹li»Prison et Libération</li> 
+<li> 
+  Résidence et Héritage</li> 
+</01> 
+<p>Pour en savoir plus sur <a 
+href="https://fr.wikipedia.org/wiki/ 
+Nelson_Mandela”target=”_blank”>Nelson Mandela 
+</a>.</p> 
+<p>Revenir en haut de la page : 
+<a href="#section1">Jeunesse et 
+Éducation</a></p> 
+</div> 
+</body> 
+</html> 
